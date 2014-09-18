@@ -5,5 +5,3 @@ requirejs.config({
 		"backbone": "js/lib/backbone"
 	}
 });
-
-require(['js/lib/backbone']);
