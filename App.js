@@ -1,4 +1,4 @@
-require (['jquery','backbone'],function($, BackBone) {
+require (['jquery','backbone'],function($, Backbone) {
     $(function(){
 
         // Create a model for the services
